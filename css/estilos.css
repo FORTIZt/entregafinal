@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+.imagen{
+    max-width:100%;
+}
+h1{
+    font-family: 'Press Start 2P', cursive;
+}
+.navbar{
+    background-color: #222222;
+}
+.fontMain{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 10px;
+}
+.fontSub{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 8px;
+}
+.fontCarrito{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 10px;
+}
+a{
+    cursor:pointer;
+}
+.alerta{
+    font-weight:700;
+}
+.bodyIndex{
+    background-image: url(/img/fondonegro.png);
+    overflow-x: hidden;
+}
+.modal-contenedor{
+    display:flex;
+    align-items: center;
+    gap:2rem;
+}
+.img-carrito{
+    width:200px;
+    padding:20px;
+} 
+.modal-content{
+    background-color: #ffffff;
+}
+.parrafo{
+    font-weight: 900;
+    font-style: italic;
+}
+#precioTotal{
+    margin:0;
+    padding:0;
+}
+a{
+    text-decoration: none;
+}
+.boton{
+    opacity:0;
+}
+.a-btn{
+    color: rgb(0, 0, 0);
+    font-family: 'Press Start 2P', cursive;
+    font-size: 11px;
+}
+.btn-pokedex{
+    margin-top: 30px;
+    margin-bottom: 0;
+    background-image: url(/img/irpoke.gif);
+    height: 80px;
+    width: 160px;
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 5px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
+  footer p {
+    margin: 0;
+    font-size: 13px;
+    font-family: 'Press Start 2P', cursive;
+  }
+  
